@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" role="img" aria-labelledby="t d" font-family="ui-sans-serif,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title id="t">След пропущенного нокаута</title><desc id="d">риск быть нокаутированным в очередном бою по числу прошлых нокаутных поражений</desc>
+<rect width="720" height="300" fill="#fcfcfb"/>
+<text x="62" y="22" font-size="13.5" font-weight="600" fill="#16130f">След пропущенного нокаута</text>
+<text x="62" y="39" font-size="11" fill="#6b645c">риск быть нокаутированным в очередном бою по числу прошлых нокаутных поражений</text>
+<polyline points="142.0,210.0 382.0,191.2 622.0,169.4" fill="none" stroke="#4a5d78" stroke-width="2.2" stroke-dasharray="5 3"/>
+<polyline points="142.0,167.4 382.0,94.4 622.0,96.0" fill="none" stroke="#d1344b" stroke-width="2.2"/>
+<line x1="62" y1="52" x2="84" y2="52" stroke="#d1344b" stroke-width="2.4"/>
+<text x="90" y="55.5" font-size="10.5" fill="#6b645c">голые кулаки, BKFC</text>
+<line x1="362" y1="52" x2="384" y2="52" stroke="#4a5d78" stroke-width="2.4" stroke-dasharray="5 3"/>
+<text x="390" y="55.5" font-size="10.5" fill="#6b645c">перчатки, UFC</text>
+<line x1="62" y1="254.0" x2="702" y2="254.0" stroke="#e0dbd4"/>
+<text x="54" y="257.5" font-size="10.5" fill="#6b645c" text-anchor="end">0%</text>
+<line x1="62" y1="184.2" x2="702" y2="184.2" stroke="#e0dbd4"/>
+<text x="54" y="187.7" font-size="10.5" fill="#6b645c" text-anchor="end">20%</text>
+<line x1="62" y1="114.4" x2="702" y2="114.4" stroke="#e0dbd4"/>
+<text x="54" y="117.9" font-size="10.5" fill="#6b645c" text-anchor="end">40%</text>
+<text x="142.0" y="271" font-size="11" fill="#16130f" text-anchor="middle">ни одного</text>
+<text x="382.0" y="271" font-size="11" fill="#16130f" text-anchor="middle">один</text>
+<text x="622.0" y="271" font-size="11" fill="#16130f" text-anchor="middle">два и больше</text>
+<line x1="142.0" y1="175.9" x2="142.0" y2="158.4" stroke="#d1344b" stroke-width="1.4" opacity=".45"/>
+<line x1="382.0" y1="110.0" x2="382.0" y2="78.6" stroke="#d1344b" stroke-width="1.4" opacity=".45"/>
+<line x1="622.0" y1="119.4" x2="622.0" y2="71.8" stroke="#d1344b" stroke-width="1.4" opacity=".45"/>
+<circle cx="142.0" cy="167.4" r="4" fill="#fcfcfb" stroke="#d1344b" stroke-width="2.2"/>
+<text x="142.0" y="154.4" font-size="10.5" fill="#d1344b" text-anchor="middle" font-weight="600">24,8</text>
+<circle cx="382.0" cy="94.4" r="4" fill="#fcfcfb" stroke="#d1344b" stroke-width="2.2"/>
+<text x="382.0" y="81.4" font-size="10.5" fill="#d1344b" text-anchor="middle" font-weight="600">45,7</text>
+<circle cx="622.0" cy="96.0" r="4" fill="#fcfcfb" stroke="#d1344b" stroke-width="2.2"/>
+<text x="622.0" y="83.0" font-size="10.5" fill="#d1344b" text-anchor="middle" font-weight="600">45,3</text>
+<line x1="142.0" y1="212.4" x2="142.0" y2="207.4" stroke="#4a5d78" stroke-width="1.4" opacity=".45"/>
+<line x1="382.0" y1="195.4" x2="382.0" y2="186.8" stroke="#4a5d78" stroke-width="1.4" opacity=".45"/>
+<line x1="622.0" y1="175.4" x2="622.0" y2="163.1" stroke="#4a5d78" stroke-width="1.4" opacity=".45"/>
+<circle cx="142.0" cy="210.0" r="4" fill="#fcfcfb" stroke="#4a5d78" stroke-width="2.2"/>
+<text x="142.0" y="197.0" font-size="10.5" fill="#4a5d78" text-anchor="middle" font-weight="600">12,6</text>
+<circle cx="382.0" cy="191.2" r="4" fill="#fcfcfb" stroke="#4a5d78" stroke-width="2.2"/>
+<text x="382.0" y="178.2" font-size="10.5" fill="#4a5d78" text-anchor="middle" font-weight="600">18,0</text>
+<circle cx="622.0" cy="169.4" r="4" fill="#fcfcfb" stroke="#4a5d78" stroke-width="2.2"/>
+<text x="622.0" y="156.4" font-size="10.5" fill="#4a5d78" text-anchor="middle" font-weight="600">24,2</text>
+</svg>

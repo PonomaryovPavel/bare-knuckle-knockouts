@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+statsmodels>=0.14
+patsy>=0.5
+pyarrow>=15
+pytest>=8
